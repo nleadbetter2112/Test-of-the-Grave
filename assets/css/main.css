@@ -1230,6 +1230,20 @@ body {
 		body.is-preload #bg:before {
 			background-color: #000000;
 		}
+/* Back Button*/
+
+.top-left-button {
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* Optional: Add padding, background, etc. for styling */
+  padding: 10px 15px;
+  background-color: #b300ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  z-index: 1000; /* Ensures the button is above other content */
+}
 
 /* Wrapper */
 
@@ -1710,4 +1724,5 @@ body {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
