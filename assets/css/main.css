@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap');
 
 /*
 	Dimension by HTML5 UP
@@ -17,7 +18,7 @@ form, label, legend, table, caption, tbody,
 tfoot, thead, tr, th, td, article, aside,
 canvas, details, embed, figure, figcaption,
 footer, header, hgroup, menu, nav, output, ruby,
-section, summary, time, mark, audio, video, gallery {
+section, summary, time, mark, audio, video, gallery, gallery2 {
 	margin: 0;
 	padding: 0;
 	border: 0;
@@ -26,7 +27,7 @@ section, summary, time, mark, audio, video, gallery {
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section, gallery {
+footer, header, hgroup, menu, nav, section, gallery, gallery2 {
 	display: block;}
 
 body {
@@ -978,6 +979,33 @@ body {
   }
 }
 
+/* Gallery2 */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 50px 8%;
+}
+
+.gallery2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 30px;
+}
+
+.gallery2 img {
+  width: 100%;
+}
 
 /* Table */
 
@@ -1724,5 +1752,6 @@ body {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
