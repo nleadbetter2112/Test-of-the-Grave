@@ -955,7 +955,7 @@ body {
   }
 
   & img {
-    object-fit: cover;
+    object-fit: contain;
     width: calc(var(--size) * 2);
     height: calc(var(--size) * 2);
     clip-path: path("M90,10 C100,0 100,0 110,10 190,90 190,90 190,90 200,100 200,100 190,110 190,110 110,190 110,190 100,200 100,200 90,190 90,190 10,110 10,110 0,100 0,100 10,90Z");
@@ -1825,6 +1825,7 @@ body {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
