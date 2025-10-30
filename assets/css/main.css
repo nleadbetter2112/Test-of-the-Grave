@@ -1339,7 +1339,7 @@ body {
   left: 0;
   /* Optional: Add padding, background, etc. for styling */
   padding: 10px 15px;
-  background-color: #b300ff;
+  background-color: #ff0022;
   color: white;
   border: none;
   cursor: pointer;
@@ -1825,6 +1825,7 @@ body {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
