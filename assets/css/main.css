@@ -150,6 +150,12 @@ input, select, textarea {
 		line-height: 1.65;
 	}
 
+@font-face {
+    font-family: "Fraktur";
+    src: url("../fonts/BreitkopfFraktur.ttf");
+}
+
+
 	a {
 		-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
@@ -1825,6 +1831,7 @@ body {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
