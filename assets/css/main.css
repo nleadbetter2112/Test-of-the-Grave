@@ -152,7 +152,7 @@ input, select, textarea {
 
 @font-face {
     font-family: "Fraktur";
-    src: url("../fonts/BreitkopfFraktur.ttf");
+    src: url("../webfonts/BreitkopfFraktur.ttf");
 }
 
 
@@ -1831,6 +1831,7 @@ body {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
