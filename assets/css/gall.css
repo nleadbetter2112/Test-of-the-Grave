@@ -7,7 +7,20 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+/* Back Button*/
 
+.top-left-button {
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* Optional: Add padding, background, etc. for styling */
+  padding: 10px 15px;
+  background-color: #ff0022;
+  color: white;
+  border: none;
+  cursor: pointer;
+  z-index: 1000; /* Ensures the button is above other content */
+}
 body {
 	background-color: black;
 	color: white;
