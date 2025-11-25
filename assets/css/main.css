@@ -1010,7 +1010,11 @@ body {
 }
 
 body {
-	background-color: black;
+
+	 background-image: : url("../../images/DSC_7263 (1).jpg");
+	 background-repeat: no-repeat;
+	 background-attachment: fixed;
+	 background-size: cover;
 	color: white;
 	width: 100%;
 	height: 100svh;
@@ -1843,6 +1847,7 @@ body {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
 
 
 
