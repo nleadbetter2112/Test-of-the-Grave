@@ -7,12 +7,6 @@
 	padding: 0;
 	box-sizing: border-box;
 }
-.backg {
-			background-image: url("../../images/DSC_7263 (1).jpg");
-			background-position: center;
-			background-size: cover;
-			background-repeat: no-repeat;
-}
 /* Back Button*/
 
 .top-left-button {
