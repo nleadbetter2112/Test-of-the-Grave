@@ -1,0 +1,50 @@
+<link rel="stylesheet" href="css/baguetteBox.min.css">
+<div class="main-container">
+        <div class="search-bar">
+            <input type="search" name="search" id="search" placeholder="Search">
+        </div>
+
+        <div class="images-container">
+            <a href="https://i.postimg.cc/RZGgLf8d/01.jpg" data-caption="I love hay bales. Took this snap on a drive through the countryside past some straw fields."> 
+                <img src="https://i.postimg.cc/KjnNkgBn/01.jpg" alt="Hay Bales">
+            </a>
+            <a href="https://i.postimg.cc/4x819G7F/02.jpg" data-caption="The lake was so calm today. We had a great view of the snow on the mountains from here."> 
+                <img src="https://i.postimg.cc/KjJ1HGy6/02.jpg" alt="Lake">
+            </a>
+            <a href="https://i.postimg.cc/3RhWr4rM/03.jpg" data-caption="I hiked to the top of the mountain and got this picture of the canyon and trees below."> 
+                <img src="https://i.postimg.cc/0yJNpdbR/03.jpg" alt="Canyon">
+            </a>
+            <a href="https://i.postimg.cc/qvnktJ5p/04.jpg" data-caption="It was amazing to see an iceberg up close, it was so cold but didn’t snow today. "> 
+                <img src="https://i.postimg.cc/C1W0M9sR/04.jpg" alt="iceberg">
+            </a>
+            <a href="https://i.postimg.cc/1t1M9HN9/05.jpg" data-caption="The red cliffs were beautiful. It was really hot in the desert but we did a lot of walking through the canyons."> 
+                <img src="https://i.postimg.cc/zGLkKMCz/05.jpg" alt="Desert">
+            </a>
+            <a href="https://i.postimg.cc/RhscnQqJ/06.jpg" data-caption="Fall is coming, I love when the leaves on the trees start to change color. "> 
+                <img src="https://i.postimg.cc/cC4RH51N/06.jpg" alt="Fall">
+            </a>
+            <a href="https://i.postimg.cc/VL2tQNtw/07.jpg" data-caption="I drove past this plantation yesterday, everything is so green!"> 
+                <img src="https://i.postimg.cc/HxSJSWmf/07.jpg" alt="Plantation">
+            </a>
+            <a href="https://i.postimg.cc/HkCL985r/08.jpg" data-caption="My summer vacation to the Oregon Coast. I love the sandy dunes!"> 
+                <img src="https://i.postimg.cc/RZcNkL91/08.jpg" alt="Dunes">
+            </a>
+            <a href="https://i.postimg.cc/RC6fPf3d/09.jpg" data-caption="We enjoyed a quiet stroll down this countryside lane."> 
+                <img src="https://i.postimg.cc/Gmryh5Xg/09.jpg" alt="Countryside Lane">
+            </a>
+            <a href="https://i.postimg.cc/43QwxcvV/10.jpg" data-caption="Sunset at the coast! The sky turned a lovely shade of orange."> 
+                <img src="https://i.postimg.cc/gkxMHndb/10.jpg" alt="Sunset">
+            </a>
+            <a href="https://i.postimg.cc/mDdwQG5r/11.jpg" data-caption="I did a tour of a cave today and the view of the landscape below was breathtaking."> 
+                <img src="https://i.postimg.cc/kgxvTSpz/11.jpg" alt="Cave">
+            </a>
+            <a href="https://i.postimg.cc/qRYKJBF2/12.jpg" data-caption="I walked through this meadow of bluebells and got a good view of the snow on the mountain before the fog came in."> 
+                <img src="https://i.postimg.cc/7Yz3L7wh/12.jpg" alt="Bluebells">
+            </a>
+        </div>
+    </div>
+
+    
+    <script src="js/baguetteBox.min.js"></script>
+    <script src="js/searchFilter.js"></script>
+    <script src="js/app.js"></script>
